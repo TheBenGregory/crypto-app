@@ -10,7 +10,7 @@
 
 # production
 /build
-
+apiManager.js/
 # misc
 .DS_Store
 .env.local
